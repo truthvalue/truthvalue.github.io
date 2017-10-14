@@ -1,0 +1,40 @@
+a {
+   color: #666666;
+}
+a:not(.btn):not(.noeffect):hover {color:black}
+a:not(.btn):not(.noeffect):after {
+  display:block;
+  position:absolute;
+  left:0;
+  bottom:-1px;
+  width:0;
+  height:2px;
+  background-color:black;
+  content:"";
+  transition:width 0.1s;
+}
+body {
+   font-family: 'Tinos', serif;   
+   font-size: 18px;
+   line-height: 1.75em;
+}
+button, a, .btn, input, textarea {
+   font-size: 18px;
+}
+p.item {
+   padding: 3px 0px 3px 25px;
+}
+h1, h2, h3, h4 {
+   font-family: 'Special Elite', cursive;
+}
+.search-url {
+   border: 1px solid #ccc;
+}
+.newsitem {
+   font-size: 0.9em;
+   white-space: no-wrap;
+}
+.newsitem a {
+   white-space: wrap;
+   font-size: 0.9em;
+}
