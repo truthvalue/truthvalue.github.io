@@ -1,5 +1,5 @@
 ## Sidebar
 
-- [Index](#index)
-- [Other](#other)
-- [Google](http://google.com)
+- [Main Site](http://truthvalue.org)
+- [](#other)
+- [](http://google.com)
