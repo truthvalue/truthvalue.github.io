@@ -1,2 +1,6 @@
-
-- [Main Site](http://truthvalue.org)
+- About
+- How we classify news
+- Site, bookmarklet, bots, apps, ...
+- Project Publications
+- Related Projects and Initiatives
+- Meet the team

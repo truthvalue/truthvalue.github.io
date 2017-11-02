@@ -1,5 +1,8 @@
-a {
-   color: blue;
+div.body a {
+   color: teal;
+}
+a h1 {
+    color: black;
 }
 a:not(.btn):not(.noeffect):hover {color:black}
 a:not(.btn):not(.noeffect):after {
@@ -44,4 +47,8 @@ div.side {
 }
 div.side ul {
     list-style-type: none;
+}
+
+i.fa {
+    font-size: 80%;
 }

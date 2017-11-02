@@ -11,15 +11,23 @@
       <div class="container header">
         <div class="fill">
           <div class="padded center">
-            <h1>The Truth Value Project</h1>
+            <a href="https://truthvalue.org"><h1>The Truth Value Project</h1></a>
           </div>
         </div>
       </div>
-      <div class="container padded">
+      <div class="container padded body">
         <div class="quarter padded side">
-          <h3>Navigation</h3>
-          <div class="padded" v-html="sidebar">
-            Loading...
+          <h4>Navigation</h4>
+          <div class="padded">
+          <ul><li>
+            <i class="fa fa-chevron-right"></i> About
+          </li></ul>
+            <div v-html="sidebar">
+              Loading...
+            </div>
+            <ul><li>
+              <a href="https://truthvalue.org" target="_blank">Main site <i class="fa fa-external-link"></i></a>
+            </li></ul>
           </div>
         </div>
         <div class="threequarters">
