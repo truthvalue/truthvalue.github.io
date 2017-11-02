@@ -1,5 +1,5 @@
 a {
-   color: #666666;
+   color: blue;
 }
 a:not(.btn):not(.noeffect):hover {color:black}
 a:not(.btn):not(.noeffect):after {
@@ -14,7 +14,7 @@ a:not(.btn):not(.noeffect):after {
   transition:width 0.1s;
 }
 body {
-   font-family: 'Tinos', serif;   
+   font-family: 'Tinos', serif;
    font-size: 18px;
    line-height: 1.75em;
 }
@@ -37,4 +37,11 @@ h1, h2, h3, h4 {
 .newsitem a {
    white-space: wrap;
    font-size: 0.9em;
+}
+div.side {
+    font-family: 'Special Elite', cursive;
+    text-transform: uppercase;
+}
+div.side ul {
+    list-style-type: none;
 }
