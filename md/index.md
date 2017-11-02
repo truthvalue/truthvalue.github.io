@@ -1,4 +1,4 @@
-## References
+### References
 
 - [Some Like it Hoax: Automated Fake News Detection in Social Networks](https://arxiv.org/abs/1704.07506)
 - [Fully Automated Fact Checking Using External Sources](https://arxiv.org/abs/1710.00341)
@@ -24,7 +24,7 @@
 - Marin Vukovic, Kresimir Pripuzic, and Hrvoje Belani. An Intelligent Automatic ´Hoax Detection System. In Knowledge-Based and Intelligent Information and Engineering Systems, pages 318–325. Springer, Berlin, Heidelberg, September 2009.
 - Iryna Yevseyeva, Vitor Basto-Fernandes, David Ruano-Ordas, and Jose R. Mendez. Optimising anti-spam filters with evolutionary algorithms. Expert Systems with Applications, 40(10):4010–4021, August 2013.
 
-## Automated fact-checking in the news
+### Automated fact-checking in the news
 
 - [Report: Automated fact-checking is coming (and soon)](https://www.poynter.org/news/report-automated-fact-checking-coming-and-soon)
 - [Introducing Factmata — Artificial intelligence for political fact-checking](https://medium.com/factmata/introducing-factmata-artificial-intelligence-for-political-fact-checking-db8acdbf4cf1)
@@ -33,7 +33,7 @@
 - [Le Monde’s hoax-busting database](https://digiday.com/publishers/le-monde-taking-fake-news/)
 - [First Draft News](https://firstdraftnews.com/)
 
-## Related sites
+### Related sites
 
 - https://www.snopes.com/
 - http://www.politifact.com/
