@@ -60,3 +60,7 @@ div.side {
     height: 100%;
     border-right: 1px solid lightgray;
 }
+div.content {
+    margin-left: 20px;
+    padding-left: 20px;
+}
