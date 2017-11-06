@@ -4,10 +4,9 @@ The Truth Value Project is a project that has as goals to help restore a sense o
 Fake news and mis-information erode the core values of democracy, mutual respect, and freedom of a society.
 The project goals are:
 
-* Provide services that inform users across the world of whether particular news items (such as articles published in websites or Facebook posts) are likely to be truthful, or should be checked with care.
+* Provide services that inform users across the world of whether particular news items (such as articles published in websites or Facebook posts) are likely to be accurate, or should be checked with care.
 * Provide services that foster debate on the truth or reliability of news items, including Wikipedia news.
 * Provide the means for people to compare opinions and points of view, and perhaps reach a shared understanding.
 * Develop the algorithms, mathematical insights, machine-learning techniques, and research into computer science and human behavior to enable the above concrete goals.
 
-We detect possible hoaxes on the basis of social and content information. The detection is automated, based on algorithms, and it is not guaranteed to be accurate: the hoax detection is best taken as an indication that the news may not be reliable, and that further research is warranted. For information about the algorithms used, see the publications page of the project.
-
+We are interested in collaborations, both with computer scientists who can help us develop the infrastructure and algorithms of the project, and with people from other disciplines, including journalists, sociologists, political scientists, and other domain experts, who can help with understanding how to improve the tone of social discussion over news.  Contact us at info@truthvalue.org.
