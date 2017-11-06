@@ -1,5 +1,3 @@
-### Meet the Team
-
 #### Core Developers
 
 * [Luca de Alfaro, University of California, Santa Cruz](http://www.soe.ucsc.edu/~luca)

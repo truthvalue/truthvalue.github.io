@@ -19,6 +19,9 @@ If you have information you would like us to add to these lists, please contact 
 
 ### Partial list of related publications
 
+- [Fully Automated Fact Checking Using External Sources](https://arxiv.org/abs/1710.00341)
+- B Adler, Luca De Alfaro, Santiago Mola-Velasco, Paolo Rosso, and Andrew West. Wikipedia vandalism detection: Combining natural language, metadata, and reputation features. Computational linguistics and intelligent text processing, pages 277–288, 2011.
+- B. Thomas Adler and Luca de Alfaro. A Content-driven Reputation System for the Wikipedia. In Proceedings of the 16th International Conference on World Wide Web, WWW ’07, pages 261–270, Banff, Alberta, Canada, 2007. ACM.
 - Alessandro Bessi, Mauro Coletto, George Alexandru Davidescu, Antonio Scala, Guido Caldarelli, and Walter Quattrociocchi. Science vs Conspiracy: Collective Narratives in the Age of Misinformation. PLOS ONE, 10(2):e0118093, February 2015.
 - Xiaoling Chen, Rajarathnam Chandramouli, and Koduvayur P. Subbalakshmi. Scam Detection in Twitter. In Katsutoshi Yada, editor, Data Mining for Service, number 3 in Studies in Big Data, pages 133–150. Springer Berlin Heidelberg, 2014.
 - Luca de Alfaro, Vassilis Polychronopoulos, and Michael Shavlovsky. Reliable aggregation of boolean crowdsourced tasks. In Third AAAI Conference on Human Computation and Crowdsourcing, 2015.
