@@ -2,6 +2,9 @@
 
 The Truth Value Project computes for each site a value of reputation that reflects how closely associated the site is with users that have been spreading fake news on social media.
 
+Every day, the TVP servers gathers information about a million or so new instances of news being shared on social media.
+The algorithm then considers all sharings (recent and older), and it computes the reputation of the news involved.
+
 The algorithm starts from a ground truth that we are striving to keep as small as possible.
 On the positive side, we have a handful of sites that correspond to peer-reviewed scientific publications, and a few selected news agencies.
 On the negative side, we have a handful of sites that, by the admission of the site operators, or by our assessment, specialize in spreading manufactured, fake news.
