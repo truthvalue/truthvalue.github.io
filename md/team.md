@@ -9,7 +9,7 @@
 
 #### Collaborators
 
-* [Rakshit Agrawal, University of California, Santa Cruz](https://www.soe.ucsc.edu/people/ragrawal)
+* [Rakshit Agrawal, University of California, Santa Cruz](https://rakshitagrawal.wordpress.com/)
 * [Scott Davis, University of California, Santa Cruz](https://www.soe.ucsc.edu/people/okdogulu)
 
 You can contact the developers at info@truthvalue.org.
