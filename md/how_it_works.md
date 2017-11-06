@@ -5,7 +5,9 @@ The Truth Value Project computes for each site a value of reputation that reflec
 The algorithm starts from a ground truth that we are striving to keep as small as possible.
 On the positive side, we have a handful of sites that correspond to peer-reviewed scientific publications, and a few selected news agencies.
 On the negative side, we have a handful of sites that, by the admission of the site operators, or by our assessment, specialize in spreading manufactured, fake news.
-The reputation of all other news items is determined algorithmically, analyzing the correlation of who is spreading which news on social media.
+
+From this ground truth, the reputation of all other news items is determined algorithmically, analyzing the correlation of who is spreading which news on social media.
+No mainstream media site, from the Washington Post, to the New York Times, to Fox News, to Breitbart news, belongs to the ground truth: the reputation of news articles belonging to all these sites is determined individually, according to how the news propagate in social media.
 User votes given via the app or via the bookmarklet are counted as endorsement for the news, and are subject to the same kind of analysis as acts of social sharing.
 
 Our main source of social media information consists in Twitter and Facebook data.
