@@ -1,6 +1,15 @@
 If you have information you would like us to add to these lists, please contact us at info@truthvalue.org
 
-### Automated fact-checking in the news
+### Related projects
+
+- [The Trust Project](https://www.scu.edu/ethics/focus-areas/journalism-ethics/programs/the-trust-project/) - An international consortium of news organizations collaborating to use transparency to build a more trustworthy and trusted press.
+- https://www.snopes.com/ - Fact checking site
+- http://www.politifact.com/ - Fact checking site
+- http://www.factcheck.org/ - Fact checking site
+- https://fullfact.org/automated - Fact checking site
+- https://botcheck.me - Detector for Twitter bots
+
+### Fact-checking in the news
 
 - [Report: Automated fact-checking is coming (and soon)](https://www.poynter.org/news/report-automated-fact-checking-coming-and-soon)
 - [Introducing Factmata — Artificial intelligence for political fact-checking](https://medium.com/factmata/introducing-factmata-artificial-intelligence-for-political-fact-checking-db8acdbf4cf1)
@@ -8,14 +17,6 @@ If you have information you would like us to add to these lists, please contact 
 - [Washington Post fact checking](http://arstechnica.co.uk/tech-policy/2016/12/washington-post-automatically-inserts-trump-fact-checks-into-twitter/)
 - [Le Monde’s hoax-busting database](https://digiday.com/publishers/le-monde-taking-fake-news/)
 - [First Draft News](https://firstdraftnews.com/)
-
-### Related sites
-
-- https://www.snopes.com/ - Fact checking site
-- http://www.politifact.com/ - Fact checking site
-- http://www.factcheck.org/ - Fact checking site
-- https://fullfact.org/automated - Fact checking site
-- https://botcheck.me - Detector for Twitter bots
 
 ### Partial list of related publications
 
