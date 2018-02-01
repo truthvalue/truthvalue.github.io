@@ -10,4 +10,4 @@ The results of the paper have been described in the following talk:
 
 ### Talks about the project
 
-- [Talk by Massimo Di Pierro](media/2018-TruthValueProject.pdf)
+- [Talk by Massimo Di Pierro, January 2018](media/2018-TruthValueProject.pdf)
