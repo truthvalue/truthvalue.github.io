@@ -1,6 +1,7 @@
-- About
-- How we classify news
-- Site, bookmarklet, bots, apps, ...
-- Project Publications
-- Related Projects and Initiatives
-- Meet the team
+- [Live site <i class="fa fa-external-link"></i>](https://truthvalue.org)
+- [About](#index)
+- [How it works](#how_it_works)
+- [Project goals](#about)
+- [Publications](#references)
+- [Related](#related)
+- [Meet the team](#team)

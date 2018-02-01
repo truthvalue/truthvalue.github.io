@@ -30,6 +30,9 @@ p.item {
 h1, h2, h3, h4 {
    font-family: 'Special Elite', cursive;
 }
+a h1 {
+    white-space: normal;
+}
 .search-url {
    border: 1px solid #ccc;
 }
@@ -51,4 +54,20 @@ div.side ul {
 
 i.fa {
     font-size: 80%;
+}
+
+div.side {
+    height: 100%;
+    border-right: 1px solid lightgray;
+}
+div.rightside {
+    border-left:  1px solid lightgray;
+}
+div.content {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+div.rightside li {
+    margin-left: 30px;
 }
