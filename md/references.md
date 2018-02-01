@@ -6,8 +6,13 @@ The algorithms currently in use are based on this paper:
 
 The results of the paper have been described in the following talk:
 
-- [Some Like it Hoax: Automated Fake News Detection in Social Networks](/uploads/some_like_it_hoax.pdf), presented at the Second Workshop on Data Science for Social Good (SoGood), Skopje, Macedonia, 2017.
+- [Some Like it Hoax: Automated Fake News Detection in Social Networks](/media/2017-some_like_it_hoax.pdf), presented at the Second Workshop on Data Science for Social Good (SoGood), Skopje, Macedonia, 2017.
 
-### Talks about the project
+### Talks
+
+This talk provides an overview of the project:
 
 - [Talk by Massimo Di Pierro, January 2018](media/2018-TruthValueProject.pdf)
+
+
+
